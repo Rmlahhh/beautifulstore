@@ -1,0 +1,2 @@
+# beautifulstore
+Landing Page
